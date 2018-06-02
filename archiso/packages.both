@@ -496,8 +496,8 @@ arcolinux-lightdm-gtk-greeter-settings
 arcolinux-neofetch-git
 #arcolinux-neofetch-ascii-git
 arcolinux-nitrogen-git
-#arcolinux-oblogout
-#arcolinux-oblogout-themes-git
+arcolinux-oblogout
+arcolinux-oblogout-themes-git
 #arcolinux-obmenu-generator-git
 #arcolinux-openbox-configs-git
 #arcolinux-openbox-themes-git
@@ -535,3 +535,4 @@ lxappearance
 #desktop specific
 bspwm
 sxhkd
+polybar
