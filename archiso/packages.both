@@ -539,7 +539,5 @@ sxhkd
 polybar
 xdo
 xdotool
-
-#Check if needed
-#sutils-git
-#xtitle
+sutils-git
+xtitle-git
