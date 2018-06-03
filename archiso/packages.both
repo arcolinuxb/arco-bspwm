@@ -293,7 +293,7 @@ lightdm
 #lxrandr
 
 #openbox
-#gtk2-perl
+gtk2-perl
 #obconf
 #oblogout
 #openbox
@@ -432,7 +432,7 @@ b43-firmware
 #obkey
 #obmenu3
 #obmenu-generator
-#perl-linux-desktopfiles
+perl-linux-desktopfiles
 
 #theming
 #openbox-arc-git
@@ -537,3 +537,9 @@ lxappearance
 bspwm
 sxhkd
 polybar
+xdo
+xdotool
+
+#Check if needed
+#sutils-git
+#xtitle
