@@ -293,7 +293,7 @@ lightdm
 #lxrandr
 
 #openbox
-gtk2-perl
+#gtk2-perl
 #obconf
 #oblogout
 #openbox
@@ -310,7 +310,7 @@ baobab
 catfish
 cmatrix
 cool-retro-term
-#dconf-editor
+dconf-editor
 dialog
 dmidecode
 evince
@@ -432,7 +432,7 @@ b43-firmware
 #obkey
 #obmenu3
 #obmenu-generator
-perl-linux-desktopfiles
+#perl-linux-desktopfiles
 
 #theming
 #openbox-arc-git
@@ -482,7 +482,7 @@ arcolinux-arc-themes-git
 #arcolinux-awesome-git
 arcolinux-bin-git
 arcolinux-bspwm-git
-#arcolinux-common-git
+arcolinux-common-git
 #arcolinux-config-cinnamon-git
 arcolinux-config-git
 #arcolinux-config-gnome-git
@@ -528,14 +528,6 @@ calamares
 boost-libs
 arcolinuxb-calamares-bspwm-git
 
-#Missing applications if xfce4 is not installed
-xfce4-settings
-xfce4-taskmanager
-xfce4-power-manager
-xfce4-clipman-plugin
-xfce4-screenshooter
-xfce4-appfinder
-lxappearance
 
 #desktop specific
 bspwm
@@ -545,3 +537,12 @@ xdo
 xdotool
 sutils-git
 xtitle-git
+
+#Missing applications if xfce4 is not installed
+xfce4-settings
+xfce4-taskmanager
+xfce4-power-manager
+xfce4-clipman-plugin
+xfce4-screenshooter
+xfce4-appfinder
+lxappearance
