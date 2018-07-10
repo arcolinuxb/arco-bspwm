@@ -4,6 +4,8 @@
 
 #archiso
 arch-install-scripts
+b43-fwcutter
+broadcom-wl
 btrfs-progs
 clonezilla
 crda
@@ -23,13 +25,13 @@ fsarchiver
 gnu-netcat
 gpm
 gptfdisk
+#grml-zsh-config
 grub
-hddtemp
 hdparm
 ipw2100-fw
 ipw2200-fw
 irssi
-jsoncpp
+#lftp
 linux-atm
 lsscsi
 mc
@@ -37,6 +39,7 @@ mtools
 ndisc6
 nfs-utils
 nilfs-utils
+#nmap
 ntfs-3g
 ntp
 openconnect
@@ -53,18 +56,18 @@ rsync
 sdparm
 sg3_utils
 smartmontools
-#speedtouch
 sudo
 tcpdump
 testdisk
-tmux
 usb_modeswitch
 vim-minimal
 vpnc
 wget
+wireless_tools
+wpa_actiond
 wvdial
 xl2tpd
-zsh
+
 
 #xorg packages
 xorg-server
@@ -149,7 +152,6 @@ pulseaudio-bluetooth
 #network
 avahi
 nss-mdns
-b43-fwcutter
 mobile-broadband-provider-info
 modemmanager
 networkmanager
@@ -161,8 +163,6 @@ networkmanager-vpnc
 networkmanager-dispatcher-ntpd
 openresolv
 samba
-wireless_tools
-wpa_actiond
 wpa_supplicant
 
 #file management
@@ -252,7 +252,7 @@ vlc
 lm_sensors
 
 #cursors
-#xcursor-simpleandsoft
+xcursor-simpleandsoft
 
 #fonts
 adobe-source-sans-pro-fonts
@@ -327,6 +327,7 @@ gparted
 gpick
 gtop
 hardinfo
+hddtemp
 htop
 #hunspell
 #hunspell-en
@@ -335,6 +336,7 @@ htop
 grsync
 intltool
 iw
+jsoncpp
 kpmcore
 libmtp
 laptop-detect
@@ -382,6 +384,7 @@ xdg-desktop-portal-gtk
 xcape
 #xfburn
 zenity
+zsh
 zsh-completions
 zsh-syntax-highlighting
 
@@ -400,10 +403,10 @@ vivaldi
 vivaldi-codecs-ffmpeg-extra-bin
 
 #cursors
-#breeze-cursors-lh
-#breeze-obsidian-cursor-theme
+breeze-cursors-lh
+breeze-obsidian-cursor-theme
 xcursor-breeze
-#xcursor-vanilla-dmz-aa
+xcursor-vanilla-dmz-aa
 
 #fonts
 ttf-font-awesome
@@ -459,11 +462,12 @@ package-query
 #packer
 pamac-aur
 peek
-#pulseaudio-equalizer-ladspa
+pulseaudio-equalizer-ladspa
 python-pywal
 screenkey
 sublime-text-dev
 temps
+tmux
 trizen
 urxvt-perls
 urxvt-resize-font-git
