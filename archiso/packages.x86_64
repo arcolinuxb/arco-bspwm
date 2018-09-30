@@ -482,7 +482,7 @@ arcolinux-arc-themes-git
 #arcolinux-awesome-git
 arcolinux-bin-git
 arcolinux-bspwm-git
-arcolinux-common-git
+#arcolinux-common-git
 #arcolinux-config-cinnamon-git
 arcolinux-config-git
 #arcolinux-config-gnome-git
@@ -497,7 +497,7 @@ arcolinux-geany-git
 arcolinux-keyring
 arcolinux-lightdm-gtk-greeter
 arcolinux-lightdm-gtk-greeter-settings
-#arcolinux-local-git
+arcolinux-local-git
 arcolinux-neofetch-git
 arcolinux-nitrogen-git
 #arcolinux-oblogout
@@ -527,8 +527,8 @@ arcolinux-xfce-thunar-git
 
 #xfce4 also for ArcoLinuxB iso builds
 #xfce4 group content
-#exo
-#garcon
+exo
+garcon
 gtk-xfce-engine
 thunar
 thunar-volman
@@ -538,11 +538,11 @@ xfce4-panel
 xfce4-power-manager
 xfce4-session
 xfce4-settings
-#xfce4-terminal
-#xfconf
+xfce4-terminal
+xfconf
 xfdesktop
 xfwm4
-#xfwm4-themes
+xfwm4-themes
 
 
 #xfce4-goodies group content
@@ -551,7 +551,7 @@ xfwm4
 #parole
 ristretto
 thunar-archive-plugin
-#thunar-media-tags-plugin
+thunar-media-tags-plugin
 #xfburn
 #xfce4-artwork
 #xfce4-battery-plugin
