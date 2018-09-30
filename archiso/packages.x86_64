@@ -554,7 +554,7 @@ xfwm4
 #xfburn
 #xfce4-artwork
 #xfce4-battery-plugin
-#xfce4-clipman-plugin
+xfce4-clipman-plugin
 #xfce4-cpufreq-plugin
 #xfce4-cpugraph-plugin
 #xfce4-datetime-plugin
@@ -568,7 +568,7 @@ xfwm4
 #xfce4-mpc-plugin
 #xfce4-netload-plugin
 #xfce4-notes-plugin
-#xfce4-notifyd
+xfce4-notifyd
 #xfce4-pulseaudio-plugin
 #xfce4-screenshooter
 #xfce4-sensors-plugin
