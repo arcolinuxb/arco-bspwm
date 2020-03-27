@@ -235,7 +235,7 @@ cups
 #dmenu
 #evolution
 feh
-#firefox
+firefox
 #flashplugin
 #galculator
 #geany
@@ -252,7 +252,7 @@ feh
 numlockx
 #pragha
 #qbittorrent
-#scrot
+scrot
 #simplescreenrecorder
 termite
 #variety
@@ -433,7 +433,7 @@ pamac-aur
 #python-pywal
 #screenkey-git
 #sublime-text-dev
-the_platinum_searcher-bin
+#the_platinum_searcher-bin
 #tmux
 #trizen
 urxvt-perls
@@ -727,7 +727,7 @@ lxappearance
 exo
 #garcon
 thunar
-thunar-volman
+#thunar-volman
 tumbler
 xfce4-appfinder
 xfce4-panel
