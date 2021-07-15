@@ -29,7 +29,7 @@ echo
 	desktop="bspwm"
 	dmDesktop="bspwm"
 
-	arcolinuxVersion='v21.09.1'
+	arcolinuxVersion='v21.09.2'
 
 	isoLabel='arcolinuxb-'$desktop'-'$arcolinuxVersion'-x86_64.iso'
 
