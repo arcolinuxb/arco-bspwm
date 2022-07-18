@@ -54,7 +54,7 @@ echo
 #https://blog.nillsf.com/index.php/2021/05/27/github-sso-using-password-protected-ssh-keys
 
 project=$(basename `pwd`)
-githubdir=$(basename $(dirname $(dirname "$PWD")))
+githubdir=$(basename $(dirname "$PWD"))
 echo "-----------------------------------------------------------------------------"
 echo "this is project https://github.com/$githubdir/$project"
 echo "-----------------------------------------------------------------------------"
